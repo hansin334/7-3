@@ -1,4 +1,4 @@
 7-3
 develop:右耳
-develop:左耳
+develop:左耳2
 develop2:髭
