@@ -3,3 +3,4 @@ develop:右耳２
 develop:左耳2
 develop2:髭
 直プッシュ
+suitti
